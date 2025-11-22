@@ -1,104 +1,56 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
----
-
-## 🚀 **Exciting News: Travel Planner AI is now Rutugo!** ✈️
+## 🚀 **Exciting News: Travel Planner AI is now Route-go!** ✈️
 
 > **The Journey Continues with a New Name and Enhanced Experience**
 
-We're thrilled to announce that **Travel Planner AI** has evolved into **[Rutugo](https://rutugo.com)** - a more powerful, intuitive, and comprehensive travel planning platform! 🌟
+We're thrilled to announce that **Travel Planner AI** has evolved into **[Route-go](https://rutugo.com)** - a more powerful, intuitive, and comprehensive travel planning platform! 🌟
 
-### 🎯 **What's Changed?**
+🎯 What’s New?
 
-- **🎨 Fresh Brand Identity**: Rutugo represents our commitment to smarter, more personalized travel experiences
-- **🗺️ Tailored Itineraries**: AI-powered personalized trip plans crafted specifically for your preferences and travel style
-- **📍 Top Spots Unveiled**: Advanced discovery system for must-see attractions and hidden gems at every destination
-- **🍜 Foodie Hotspots**: Curated local dining recommendations from culinary experts and fellow travelers
-- **👥 Community Plans**: Explore and get inspired by travel plans from a vibrant community of fellow travelers
-- **✉️ Enhanced Collaboration**: Seamless email invite system to plan together with friends, family, and colleagues in real-time
-- **🌍 Comprehensive City & Country Guides**: Expert insights and insider tips for every destination worldwide
-- **🔗 Meta-searched Booking Integration**: Aggregated booking links for flights (Skyscanner), hotels (Kayak), and activities (Viator, GetYourGuide)
-- **🔄 Smart Plan Refinement**: Dynamically adjust travel dates, budget, and stops in seconds with AI-powered optimization
-- **✅ Feasibility Check System**: Advanced validation ensures your travel plans are realistic and achievable before booking
-- **🎯 Multi-Step Plan Creation**: Enhanced 4-step guided process - "Set Your Course" → "Plan Your Comfort Zone" → "Fine-Tune Your Adventure" → "Feasibility Check"
-- **🤖 Enhanced LLM Integration**: Improved AI algorithms for more accurate, contextual, and personalized travel recommendations
-- **📱 Seamless User Experience**: Redesigned interface with improved navigation, responsive design, and intuitive workflows
+🎨 Fresh Brand Identity: Route-go reflects our vision of delivering smarter, more personalized travel experiences.
+🗺️ Tailored Itineraries: AI-crafted trip plans designed around your interests, style, and pace.
+📍 Top Spots Unveiled: Discover must-see attractions and hidden gems with our advanced discovery engine.
+🍜 Foodie Hotspots: Curated dining picks from local experts and seasoned travelers.
+👥 Community Plans: Explore itineraries shared by a vibrant community for instant inspiration.
+✉️ Real-Time Collaboration: Invite friends or colleagues via email and plan your trip together seamlessly.
+🌍 In-Depth Destination Guides: Trusted city and country insights covering culture, tips, and essentials.
+🔗 Smart Booking Integration: One-stop aggregated booking links for flights (Skyscanner), hotels (Kayak), and activities (Viator, GetYourGuide).
+🔄 Dynamic Plan Refinement: Instantly adjust travel dates, budgets, or stops with AI-powered optimization.
+✅ Feasibility Check: Automated validation ensures your trip is practical and doable before you commit.
+🎯 Guided Multi-Step Flow: A polished 4-step creation process —Set Your Course → Plan Your Comfort Zone → Fine-Tune Your Adventure → Feasibility Check
+🤖 Enhanced LLM Intelligence: More accurate, contextual, and personalized AI recommendations.
+📱 Refined User Experience: A redesigned, responsive interface engineered for smoother navigation and planning.
 
-### 🌍 **Why Rutugo?**
+🌍 Why Route-go?
 
-The name "Rutugo" embodies the spirit of exploration and discovery - "_Ru_" (journey) + "_tu_" (you) + "_go_" = **Your journey, your way, let's go!**
+The name “Route-go” captures the essence of exploration:
+“Route” (path) + “to” + “go” → Your journey, your way — let’s go!
 
-### 🔗 **Experience the Evolution**
+Travel Planner AI – Gateway to Seamless Smart Travel Planning 
 
-**[Visit Rutugo.com →](https://rutugo.com)** to explore the next generation of AI-powered travel planning
+Travel Planner AI was built to simplify itinerary creation for travelers of all types.Whether it's a short getaway or a long expedition, just describe your trip—“2 days in London with a $1000 budget”—and our AI generates a complete, personalized itinerary.
 
----
+🌟 Overview
 
-_This repository showcases the original Travel Planner AI codebase and serves as a foundation for the enhanced Rutugo platform._
+Travel Planner AI is a SaaS platform designed to streamline trip planning using AI-driven insights. Our system converts a simple travel prompt into a comprehensive, customized travel plan tailored to your preferences, timing, and budget.
 
----
+🧭 Key Functional Features
 
-# Travel Planner AI - Gateway to Seamless Smart Travel Plan
+Top Spots Unveiled: Easily find popular attractions and hidden gems.
+Tailored Itineraries: Day-by-day plans, optimized for time and convenience.
+Optimal Timing: Learn the best times to visit each destination.
+Foodie Hotspots: Discover top-rated local restaurants and cafes.
+Prime Experiences: Enjoy curated moments that make your trip memorable.
+Expense Tracker: Track and revisit your travel budget anytime.
+Email Collaboration: Invite friends or colleagues to co-plan your itinerary.
 
-Welcome to Travel Planner AI, your ultimate travel companion designed to simplify the process of planning your next adventure.
-Whether you're dreaming of a weekend getaway or a month-long expedition, Travel Planner AI is here to help you meticulously craft your next travel itinerary.
+🛠️ Technologies Used
 
-## Overview
-
-Travel Planner AI is a Software as a Service (SaaS) product that leverages cutting-edge technologies to streamline the travel planning process.
-By simply providing a prompt such as "2 days trip to London with budget $1000," our AI-powered tool generates comprehensive travel plans tailored to your preferences.
-
-![image](https://github.com/hardikverma22/travel-planner-ai/assets/26103679/de21a51b-6d95-427c-a00a-b919dd09c56e)
-
-## Demo
-
-Check out the live demo [﻿here](https://travelplannerai.site/).
-
-## Key Functional Features
-
-- **Top Spots Unveiled:** Discover hidden gems and popular attractions effortlessly.
-- **Tailored Itineraries:** Plan your days seamlessly with custom-tailored schedules.
-- **Optimal Timing:** Learn the best time to visit your destinations for an unparalleled experience.
-- **Foodie Hotspots:** Indulge in culinary delights with recommendations from local experts.
-- **Prime Experiences:** Immerse yourself in unforgettable moments curated just for you.
-- **Expense Tracker:** Effectively track your expenses throughout your journey and can revisit later as well.
-- **Email Invite:** Invite your friend and colleagues to your desired plan and collaborate together.
-
-## Architecture
-
-![Architecture Diagram](/.eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---ve0MOtPUnuyQd2KhDYy9V---figure---s1GcusGonEODvuhKC9v8rQ.png "Architecture Diagram")
-
-![Email Flow](/.eraser/ITHfX2CmBRfVZimKKniY___02a0ac4RaOW4qPyzxPn66zodRbA3___---figure---6HMnI9tpLngtE2PcNIhPL---figure---wYeVIfbY5wm_ADKyKI0VPQ.png "Email Flow")
-
-## Installation
-
-To run the Travel Planner AI, follow these steps:
-
-1. Clone the repository:git clone [﻿https://github.com/hardikverma22/travel-planner-ai](https://github.com/hardikverma22/travel-planner-ai)
-2. Navigate to the project directory:cd travel-planner-ai
-3. Install the dependencies:npm install
-4. Start the development server:npm run dev
-5. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/) to see the app in action.
-
-## Technologies Used
-
-- Travel Planner AI is built using cutting-edge technologies to ensure a seamless user experience.
-- **Next.js 14:** Leveraging the latest advancements in Next.js for efficient web application development.
-- **Tailwind CSS with Shadcn-UI:** Utilizing Tailwind CSS with Shadcn-UI for responsive and visually stunning user interfaces.
-- **Convex Backend Platform:** Powering our backend infrastructure for robust performance and scalability.
-- **OpenAI APIs:** Harnessing the power of OpenAI's APIs for intelligent content generation and natural language processing.
-- **Clerk:** Providing secure authentication solutions to safeguard user accounts and data.
-- **Razorpay:** Facilitating seamless payment processing supporting wide range of payment methods.
-- **Resend:** For sending email invites using my custom domain.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Shoe Forge, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request to the main branch of the original repository.
-
-<!--- Eraser file: https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY --->
+Travel Planner AI is built with modern, scalable, and robust technology:
+Next.js 14 – Efficient, fast, and scalable application framework
+Tailwind CSS + Shadcn-UI – Clean, responsive UI components
+Convex – High-performance real-time backend
+OpenAI APIs – Intelligent content generation and NLP
+Clerk – Secure and seamless user authentication
+Razorpay – Smooth, reliable payment processing
+Resend – Email delivery using custom domains
