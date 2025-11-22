@@ -2,7 +2,7 @@
 
 A new name, a smarter experience, and the same mission—making travel effortless.
 
-We're excited to share that Travel Planner AI has officially transformed into Route-go
+We're excited to share that Travel Planner AI has officially transformed into Route-go[https://www.rutugo.com]
  — a more powerful, intuitive, and complete AI travel planning platform built to elevate every step of your journey. 🌟
 
 🎯 What’s New?
